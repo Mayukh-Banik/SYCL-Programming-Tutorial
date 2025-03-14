@@ -1,22 +1,19 @@
-Welcome to Lumache's documentation!
+A Basic Guide to SYCL Programming
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+This is currently a work in progress as I am also learning it right now. 
+This is where I am putting in all my notes.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Currently building docs.
 
 Contents
 --------
 
 .. toctree::
 
+   installation
    usage
    api
