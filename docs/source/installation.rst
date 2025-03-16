@@ -53,6 +53,8 @@ To ensure that all paths are added to environment run:
 
     ./opt/intel/oneapi/<toolkit-version>/oneapi-vars.sh
 
+    icpx --version
+
 Every time you start a session or add it to bash profile by:
 
 .. code-block:: console

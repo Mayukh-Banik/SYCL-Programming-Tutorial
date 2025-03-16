@@ -15,5 +15,6 @@ Contents
 .. toctree::
 
    installation
+   hello_world
    usage
    api
