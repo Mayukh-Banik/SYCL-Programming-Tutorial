@@ -15,6 +15,6 @@ Contents
 .. toctree::
 
    installation
-   helloworld
+   quickstart
    usage
    api
