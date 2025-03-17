@@ -16,5 +16,6 @@ Contents
 
    installation
    quickstart
+   blas
    usage
    api
